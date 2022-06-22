@@ -1,4 +1,4 @@
-\0;276;0c#include <stdio.h>
+#include <stdio.h>
 /**
  * _pow_recursion - Entry point
  * @x: input one assigned
